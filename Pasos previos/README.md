@@ -11,5 +11,9 @@ La placa de arduino es donde ponemos todas las materiales que necesitamos, los d
 <img width="329" height="398" alt="image" src="https://github.com/user-attachments/assets/509c851b-c719-4488-88e7-2d59050d8a3a" />
 
 # 2º Foto del circuito tinkerkad.
+
 <img src= "Imagenes/Fantastic Fulffy-Rottis.png" width="600" height="500" />
 
+# Foto de la programación de circuito.
+
+<img src= "Imagenes/Captura de pantalla 2025-10-20 133800.png" width="600" height="500" />
