@@ -18,15 +18,21 @@ La placa de arduino es donde ponemos todas las materiales que necesitamos, los d
 
 <img src= "Imagenes/Captura de pantalla 2025-10-20 133800.png" width="500" height="500" />
 
-# Foto de potenciómetro.
+# 3º Foto de potenciómetro.
 
 <img src= "Imagenes/Smashing Amur.png" width="500" height="500" />
 
-# Foto de prgramación de potenciómetro.
+# Foto de programación de potenciómetro.
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/11d57d4d-09f8-4bce-93a5-29ee866e69ce" />
 
+# 4º Foto de mapeado.
 
+
+
+# Foto de prgramación de mapeado.
+
+<img src= "Imagenes/Programación mapeado.png" width="500" height="500" />
 
 
 
