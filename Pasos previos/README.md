@@ -1,6 +1,6 @@
 # 1º Foto del circuito de tinkercad.
 
-<img width="1366" height="544" alt="image" src="https://github.com/user-attachments/assets/2f0c0628-2f93-43a0-be24-33f6f21e959d" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/2f0c0628-2f93-43a0-be24-33f6f21e959d" />
 
 Este es el pantallazo de circuito de arduino, esta dividido en dos placas, uno es la placa de arduino y otro es la placa de prototipado.
 La placa de protodipado esta dividido en varios agujeros y estan conectado en cinco en cinco a dirección horizontal.
@@ -8,19 +8,19 @@ La placa de arduino es donde ponemos todas las materiales que necesitamos, los d
 
 # Foto de la programación de circuito.
 
-<img width="329" height="398" alt="image" src="https://github.com/user-attachments/assets/509c851b-c719-4488-88e7-2d59050d8a3a" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/509c851b-c719-4488-88e7-2d59050d8a3a" />
 
 # 2º Foto del circuito tinkerkad.
 
-<img src= "Imagenes/Fantastic Fulffy-Rottis.png" width="600" height="500" />
+<img src= "Imagenes/Fantastic Fulffy-Rottis.png" width="500" height="500" />
 
 # Foto de la programación de circuito.
 
-<img src= "Imagenes/Captura de pantalla 2025-10-20 133800.png" width="330" height="400" />
+<img src= "Imagenes/Captura de pantalla 2025-10-20 133800.png" width="500" height="500" />
 
 # Foto de potenciómetro.
 
-<img src= "Imagenes/Smashing Amur.png" width="330" height="400" />
+<img src= "Imagenes/Smashing Amur.png" width="500" height="500" />
 
 
 
