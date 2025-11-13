@@ -28,7 +28,7 @@ La placa de arduino es donde ponemos todas las materiales que necesitamos, los d
 
 # 4º Foto de mapeado.
 
-<img src= "Imagenes/Foto mapeado.png" width="500" height="500" />
+<img src= "Imagenes/IMG_8885.jpeg" width="500" height="500" />
 
 # Foto de prgramación de mapeado.
 
