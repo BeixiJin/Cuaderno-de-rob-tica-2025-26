@@ -36,6 +36,8 @@ La placa de arduino es donde ponemos todas las materiales que necesitamos, los d
 
 # 5º Foto de ultrasonido.
 
+<img src= "Imagenes/IMG_8997.jpeg" width="500" height="500" />
+
 # Foto de programación ultrasonido.
 
 <img src= "Imagenes/ultrasonido.png" width="500" height="500" />
