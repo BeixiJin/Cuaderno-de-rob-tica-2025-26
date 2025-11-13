@@ -10,6 +10,8 @@ La placa de arduino es donde ponemos todas las materiales que necesitamos, los d
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/509c851b-c719-4488-88e7-2d59050d8a3a" />
 
+Mi programa empieza con dos int(esto es la variable) en este caso esta en el 7 y el 8, después sigue con el void setup (funciona en que se ejecuta una sola vez al inicio del programa), dentro de void setup esta el pinmode(terminal7, OUTPUT) y el pinmode(terminal7, OUTPUT), esto es que el 7 y el 8 esta como salida, desùés en seguida esta el void loop (es para crear un bucle), dentro de el está el digitalwrite(terminal7, HIGH) y el digitalwrite(terminal8, LOW), estos significa que un pin digital esta en alto (HIGH) y el otro en bajo (LOW) , y el delay(10) significa que al terminar los anteriores se espera 10 milisegundos y asi sigue la segunda parte pero cambiando el alto y el bajo de sitios(osea si en el anterios es 7 en lato y el 8 en bajo, en este caso es lo contrario, el 7 en bajo y el 8 en alto) y asi termina el programa.
+
 # 2º Foto del circuito tinkerkad.
 
 <img src= "Imagenes/Fantastic Fulffy-Rottis.png" width="500" height="500" />
