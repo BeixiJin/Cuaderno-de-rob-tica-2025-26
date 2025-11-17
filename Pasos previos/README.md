@@ -16,6 +16,8 @@ Mi programa empieza con dos int(esto es la variable) en este caso esta en el 7 y
 
 <img src= "Imagenes/Fantastic Fulffy-Rottis.png" width="500" height="500" />
 
+Este circuito su objetivo es al principio tiene que tener un diodo led encendido y cuando le das al pulsador enciende el que esta apagado y se apaga el que esta encendido y si sueltas el pulsador vuelve al principio de circuito
+
 # Foto de la programación de circuito.
 
 <img src= "Imagenes/Captura de pantalla 2025-10-20 133800.png" width="500" height="500" />
