@@ -22,7 +22,7 @@ Este circuito su objetivo es al principio tiene que tener un diodo led encendido
 
 <img src= "Imagenes/Captura de pantalla 2025-10-20 133800.png" width="500" height="500" />
 
-Este programa enmpieza con cuatro variales que dos estan en terminales 7 y 8, uno es el pulsador y otro es su valor. Se sigue con un void setup, dentr suya tiene tres pinmode y un serial.begin, los tres pinmode tiene las dos terminales esta en outout(salida) 
+Este programa enmpieza con cuatro variales que dos estan en terminales 7 y 8, uno es el pulsador y otro es su valor. Se sigue con un void setup, dentro suya tiene tres pinmode y un serial.begin, los tres pinmode tiene las dos terminales en outout(salida) y un pulsador en input(entrada), y el serial.begin(9600) es la velocidad que pasa desde el puerto USB a circuito. Después sigue con un void loop, dentro de el tiene dos if(comparación)
 
 # 3º Foto de potenciómetro.
 
