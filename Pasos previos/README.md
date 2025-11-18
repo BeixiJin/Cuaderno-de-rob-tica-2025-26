@@ -32,6 +32,8 @@ Este programa enmpieza con cuatro variales que dos estan en terminales 7 y 8, un
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/11d57d4d-09f8-4bce-93a5-29ee866e69ce" />
 
+Este programación empieza con un variable int que dice que P2 = A2, después sigue con dos float(tipo de dato numérico que representa números de punto flotante o con decimales), uno que es el valor = 0, y el otro es el de creoauno, después sigue con un void setup, dentro de el tiene un serial.begin(9600), después sigue con un void loop, que dentro de el tiene el valor = analogRead(P2) (significa que el valor que en este casa que es 0 es igual que lea el estado del pin 2), después tiene un serial.println(valor) (significa que el valor se envía al puerto serie) y por lo último un delay(20) (significa se retrasa 20 milisegundos) y asi termina la programa.
+
 # 4º Foto de mapeado.
 
 <img src= "Imagenes/IMG_8885.jpeg" width="500" height="500" />
