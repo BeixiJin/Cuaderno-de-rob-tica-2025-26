@@ -40,6 +40,8 @@ Este programación empieza con un variable int que dice que P2 = A2, después si
 
 <img src= "Imagenes/IMG_8885.jpeg" width="500" height="500" />
 
+El objetivo de este es parecido al potenciómetro solo que lo hacemos a mano de práctica que es de usar en este caso un tornillo y va cambiando el valor del potenciómetro y la ilumidad va cambiando o brilla más o brilla menos.
+
 # Foto de prgramación de mapeado.
 
 <img src= "Imagenes/Programación mapeado.png" width="500" height="500" />
