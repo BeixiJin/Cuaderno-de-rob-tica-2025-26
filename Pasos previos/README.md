@@ -28,6 +28,8 @@ Este programa enmpieza con cuatro variales que dos estan en terminales 7 y 8, un
 
 <img src= "Imagenes/Smashing Amur.png" width="500" height="500" />
 
+El objetivo de este programa es al cambiar el valor del potenciómetro la ilumidad del diodoled va cambia en que brilla más o menos.
+
 # Foto de programación de circuito.
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/11d57d4d-09f8-4bce-93a5-29ee866e69ce" />
