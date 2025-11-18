@@ -54,6 +54,8 @@ El objetivo de este es parecido al potenciómetro solo que lo hacemos a mano de 
 
 <img src= "Imagenes/IMG_8998.jpeg" width="500" height="500" />
 
+El objetivo de este es que el ultrasonido va detectando la distancia, lo lee y cada vez que vayas cambiando la distancia, el valor que lee se cambia y saldrá otros valores.
+
 # Foto de programación ultrasonido.
 
 <img src= "Imagenes/ultrasonido.png" width="500" height="500" />
