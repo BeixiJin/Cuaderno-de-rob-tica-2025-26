@@ -64,7 +64,7 @@ Este programa enpieza con 4 variables int, uno es de LED5 = 5, el P2 = A2, uno q
 
 Después sigue un void setup, que en dentro de el tenemos un pinMode(LED5, OUTPUT) (significa que el led 5 es en salida), y un serial.begin(9600).
 
-Después sigue con un void loop, que en dentro de el tenemos un lecturapotenciometro = analogRead(P2) (significa que el valor que tenga el potenciometro es igual a la lectura analógica de potenciómetro), después tenemos un DutyCycle = map(lecturapotenciometro, 16, 991, 0, 225) (esto significa que el valor de DutyCycle(variable) es igual que el mapeo(el mapeo es que dentro de ella se hace una regla de tres, se coge de 16 a 991 porque normalmente un potenciómetro puede llegar desde 0 a 1023 pero lo nuestro no llega y tiene un mínimo y un máximo que son estos números, después es el de 0 a 225 porque el diodoled que usamos tiene un mínimo de 0 y un máximo de 225 de valor), después sigue con un analogWrite(LED5, DutyCycle) (esto significa que está enviando una deñal al pin5 utilizando el DutyCycle que en este caso es el valor de mapeado), después tenemos un: Serial. print("lecturapotenciometro: "); Serial. print(lecturapotenciometro); Serial. print(" Dutycycle: "); Serial.print(Dutycycle) ,todo esto significa que tomamos los datos que nos han salido para que lo tengamos en cuenta. Y por último tenemos un delay(20) que es un tiempo de espera de 20 milisegundos y así termina este programa.
+Después sigue con un void loop, que dentro de el tenemos un lecturapotenciometro = analogRead(P2) (significa que el valor que tenga el potenciometro es igual a la lectura analógica de potenciómetro), después tenemos un DutyCycle = map(lecturapotenciometro, 16, 991, 0, 225) (esto significa que el valor de DutyCycle(variable) es igual que el mapeo(el mapeo es que dentro de ella se hace una regla de tres, se coge de 16 a 991 porque normalmente un potenciómetro puede llegar desde 0 a 1023 pero lo nuestro no llega y tiene un mínimo y un máximo que son estos números, después es el de 0 a 225 porque el diodoled que usamos tiene un mínimo de 0 y un máximo de 225 de valor), después sigue con un analogWrite(LED5, DutyCycle) (esto significa que está enviando una deñal al pin5 utilizando el DutyCycle que en este caso es el valor de mapeado), después tenemos un: Serial. print("lecturapotenciometro: "); Serial. print(lecturapotenciometro); Serial. print(" Dutycycle: "); Serial.print(Dutycycle) ,todo esto significa que tomamos los datos que nos han salido para que lo tengamos en cuenta. Y por último tenemos un delay(20) que es un tiempo de espera de 20 milisegundos y así termina este programa.
 
 # 5º Foto de ultrasonido.
 
@@ -80,9 +80,11 @@ El objetivo de este es que el ultrasonido va detectando la distancia, lo lee y c
 
 <img src= "Imagenes/ultrasonido.png" width="500" height="500" />
 
+Este programa empieza en una una serie que dice que esta incuido el "Ultrasonic.h" (significa que todo el programación esta incluido el ultrasonido), después sigue con dos variables int que uno es TRIG_PIN=7 y el ECHO_PIN=8 (esto significa que el pin 7 está utilizando como el trigger y el pin 8 como el eco), después sigue con el Ultrasonic Tripitropi(TRIG_PIN, ECHO_ PIN, 60000) (esto significa que usamos un el ultrasonido de nombre como Tripitropi, junto con el trigger y el eco, que envian y reciben de un tiempo máximo de espera de 60000 microsegundos).
 
+Después sigue con un void setup, dentro tiene un Serial.begin(9600), y dos Serial.println, el primero te dice que este programa es de Ultrasonic Distance Measerement y el otro te dice que este programa esta hecho por quien, y solo hacen eso en la programación, no hacen nada más.
 
-
+Después sigue con un void loop, dentro tiene un Serial.print(Tripitropi.Ranging(CM)) (esto significa que lee la distancia y lo combierta en CM que en este caso es el variable Tripitropi), después sigue con un Serial.print("cm") (esto significa que lee el centímetros), y después tiene un delay(100), y se sigue haciendo lo mismo pero en INC (esto es en inches) y al final de programa tiene un delay(500) (todos son milisegundos, y así termina este programa.
 
 
 
