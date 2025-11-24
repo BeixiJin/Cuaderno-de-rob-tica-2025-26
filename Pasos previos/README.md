@@ -98,6 +98,8 @@ Después sigue con un void loop, dentro tiene un Serial.print(Tripitropi.Ranging
 
 El objetivo de este circuito es que tiene un límite de distancia aue es 225cm, si es dentro de esta distsncia, cuando más acerque iluminará más y cuando más lejos este iluminará menos, y si se pasa de 225 se apaga y no hace nada.
 
+"NO TENGO VIDEO PORQUE TODO ESTABA BIEN PERO LA PLACA NO FUNCIONABA Y NO PUDÍ GRABARLO"
+
 # Foto de programación.
 
 <img src= "Imagenes/iluminacion.png" width="500" height="500" />
