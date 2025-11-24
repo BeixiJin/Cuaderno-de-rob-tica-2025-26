@@ -102,7 +102,11 @@ El objetivo de este circuito es que tiene un límite de distancia aue es 225cm, 
 
 <img src= "Imagenes/iluminacion.png" width="500" height="500" />
 
+Este programa empieza diciendo que esta incuido el ultrasonido, después tiene 4 variables int, que uno es que te dice que el LED9 es igual a 10, otro te dice que el trigger esta en el 7, otro que dice que el eco esta en el 8 y el último es un variable que se llama Cantidadluz.
 
+Después tenemos un void setup, dentro de el tenemos un Serial.print(9600) (milisegundos) y un pinMode LED9 OUTPUT, lo que hace es que al principio el led esta como salida.
+
+Después tenemos un void loop, dentro tenemos que te dice que la camtidadlez es igual que la distancia que esta midiendo en CM, después tenemos dos if (comparación), en el primero tenemos que si 225 es más grande que la cantidadluz (osea si la distancia aue esta midiendo es mayor que 225), el led estará en bajo(osea apagado), después em el otro if, tenemos si es de 225 es menor o igual que cantidadluz, la iluminación del led es 225 menos la distancia que medirá y acabará con un delay(30) para tener un tiempo.
 
 
 
