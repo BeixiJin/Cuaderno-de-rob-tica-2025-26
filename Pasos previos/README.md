@@ -88,6 +88,13 @@ Después sigue con un void loop, dentro tiene un Serial.print(Tripitropi.Ranging
 
 # 6º Foto de control de iluminosidad con ultrasonido.
 
+<img src= "Imagenes/IMG_0677.jpeg" width="500" height="500" />
+
+<img src= "Imagenes/IMG_0678.jpeg" width="500" height="500" />
+
+<img src= "Imagenes/IMG_0679.jpeg" width="500" height="500" />
+
+<img src= "Imagenes/IMG_0680.jpeg" width="500" height="500" />
 
 # Foto de programación.
 
