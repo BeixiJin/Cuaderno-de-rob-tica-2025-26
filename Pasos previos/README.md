@@ -86,9 +86,12 @@ Después sigue con un void setup, dentro tiene un Serial.begin(9600), y dos Seri
 
 Después sigue con un void loop, dentro tiene un Serial.print(Tripitropi.Ranging(CM)) (esto significa que lee la distancia y lo combierta en CM que en este caso es el variable Tripitropi), después sigue con un Serial.print("cm") (esto significa que lee el centímetros), y después tiene un delay(100), y se sigue haciendo lo mismo pero en INC (esto es en inches) y al final de programa tiene un delay(500) (todos son milisegundos, y así termina este programa.
 
-# Control de iluminosidad con ultrasonido.
+# 6º Foto de control de iluminosidad con ultrasonido.
 
 
+## Foto de programación.
+
+<img src= "Imagenes/iluminacion.png" width="500" height="500" />
 
 
 
