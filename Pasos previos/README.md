@@ -110,6 +110,14 @@ Después tenemos un void setup, dentro de el tenemos un Serial.print(9600) (mili
 
 Después tenemos un void loop, dentro tenemos que te dice que la camtidadlez es igual que la distancia que esta midiendo en CM, después tenemos dos if (comparación), en el primero tenemos que si 225 es más grande que la cantidadluz (osea si la distancia aue esta midiendo es mayor que 225), el led estará en bajo(osea apagado), después em el otro if, tenemos si es de 225 es menor o igual que cantidadluz, la iluminación del led es 225 menos la distancia que medirá y acabará con un delay(30) para tener un tiempo.
 
+# 7º Foto de circuito de servomotor
+
+
+
+
+
+
+
 
 
 
