@@ -113,9 +113,12 @@ Después tenemos un void loop, dentro tenemos que te dice que la camtidadlez es 
 # 7º Foto de circuito de servomotor
 
 
+# 8º Foto de circuito de control de potenciómetro con servomotor.
 
 
+# Foto de programación.
 
+<img src= "Imagenes/programacion final proyecto.png" width="500" height="500" />
 
 
 
