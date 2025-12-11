@@ -96,7 +96,7 @@ Después sigue con un void loop, dentro tiene un Serial.print(Tripitropi.Ranging
 
 <img src= "Imagenes/IMG_0680.jpeg" width="500" height="500" />
 
-El objetivo de este circuito es que tiene un límite de distancia aue es 225cm, si es dentro de esta distsncia, cuando más acerque iluminará más y cuando más lejos este iluminará menos, y si se pasa de 225 se apaga y no hace nada.
+El objetivo de este circuito es que tiene un límite de distancia que es 225cm, si es dentro de esta distsncia, cuando más acerque iluminará más y cuando más lejos este iluminará menos, y si se pasa de 225 se apaga y no hace nada.
 
 "NO TENGO VIDEO PORQUE TODO ESTABA BIEN PERO LA PLACA NO FUNCIONABA Y NO PUDÍ GRABARLO"
 
@@ -116,9 +116,13 @@ Después tenemos un void loop, dentro tenemos que te dice que la camtidadlez es 
 | - | - | - |
 | <img src= "Imagenes/IMG_9513.jpeg" width="500" height="500" /> | <img src= "Imagenes/IMG_9514.jpeg" width="500" height="500" /> | <img src= "Imagenes/IMG_9515.jpeg" width="500" height="500" /> |
 
+El objetivo de este circuito es que el motor iba girando por grados (primero esta en 00, despues gira hacia 90, después gira hacia 180 y vuelve otra vez a 00 y asi continuamente).
+
 # Foto de programación.
 
 <img src= "Imagenes/servomotor.png" width="500" height="500" />
+
+Este circuito empieza diciendo aue esta incluido el Servo, y después dice que el nombre del Servo se llama serviMotor. Tiambién tiene dos variables int, que uno es cost int(significa que es constante la variable, no se puede cambiar)
 
 # 8º Foto de circuito de control de potenciómetro con servomotor.
 
