@@ -122,7 +122,11 @@ El objetivo de este circuito es que el motor iba girando por grados (primero est
 
 <img src= "Imagenes/servomotor.png" width="500" height="500" />
 
-Este circuito empieza diciendo aue esta incluido el Servo, y después dice que el nombre del Servo se llama serviMotor. Tiambién tiene dos variables int, que uno es cost int(significa que es constante la variable, no se puede cambiar)
+Este circuito empieza diciendo aue esta incluido el Servo, y después dice que el nombre del Servo se llama serviMotor. Tiambién tiene dos variables int, que uno es cost int pinMotor = 5(significa que es constante la variable, no se puede cambiar) y otra variable int que se llama posicion.
+
+Después tenemos un void setup, dentro de el tenemos un Serial.begin(9600) (milisegundos), un pinMode (pinMotor, OUTPUT) (significa aue el pinMotor esta en salida) y un servoMotor.attach(pinMotor) (significa que vinculan el servoMotor al pinMotor).
+
+Después tenemos un void loop, dentro de el tenemos que primero tenemos la posicion en 00(significa que la posición esta en 0), un servoMotor.write(posicion) (significa que la escritura del servoMotor es la posicion), un Serial.println(posicion) (significa que la posicion se envía al puerto serie) y un delay(1000) (milisegundos), y así con los dos siguientes solo cambiando el valor de la posición y así termina este programa.
 
 # 8º Foto de circuito de control de potenciómetro con servomotor.
 
