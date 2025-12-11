@@ -112,6 +112,12 @@ Después tenemos un void loop, dentro tenemos que te dice que la camtidadlez es 
 
 # 7º Foto de circuito de servomotor
 
+| Foto 1 | Foto 2 | Foto 3 |
+| - | - | - |
+| <img src= "Imagenes/IMG_9513.jpeg" width="500" height="500" /> | <img src= "Imagenes/IMG_9514.jpeg" width="500" height="500" /> | <img src= "Imagenes/IMG_9515.jpeg" width="500" height="500" /> |
+
+
+
 <img src= "Imagenes/IMG_9513.jpeg" width="500" height="500" />
 
 <img src= "Imagenes/IMG_9514.jpeg" width="500" height="500" />
