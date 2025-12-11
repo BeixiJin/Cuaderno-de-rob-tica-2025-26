@@ -118,6 +118,10 @@ Después tenemos un void loop, dentro tenemos que te dice que la camtidadlez es 
 
 <img src= "Imagenes/IMG_9515.jpeg" width="500" height="500" />
 
+# Foto de programación.
+
+<img src= "Imagenes/servomotor.png" width="500" height="500" />
+
 # 8º Foto de circuito de control de potenciómetro con servomotor.
 
 <img src= "Imagenes/IMG_9513.jpeg" width="500" height="500" />
