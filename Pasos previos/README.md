@@ -122,7 +122,7 @@ El objetivo de este circuito es que el motor iba girando por grados (primero est
 
 <img src= "Imagenes/servomotor.png" width="500" height="500" />
 
-Este circuito empieza diciendo aue esta incluido el Servo, y después dice que el nombre del Servo se llama serviMotor. Tiambién tiene dos variables int, que uno es cost int pinMotor = 5(significa que es constante la variable, no se puede cambiar) y otra variable int que se llama posicion.
+Este circuito empieza diciendo aue esta incluido el Servo, y después dice que el nombre del Servo se llama serviMotor. También tiene dos variables int, que uno es cosnt int pinMotor = 5(significa que es constante la variable, no se puede cambiar) y otra variable int que se llama posicion.
 
 Después tenemos un void setup, dentro de el tenemos un Serial.begin(9600) (milisegundos), un pinMode (pinMotor, OUTPUT) (significa aue el pinMotor esta en salida) y un servoMotor.attach(pinMotor) (significa que vinculan el servoMotor al pinMotor).
 
@@ -140,9 +140,11 @@ El objetivo de este circuito es que tiene conectado el potenciometro al motor, y
 
 <img src= "Imagenes/programacion final proyecto.png" width="500" height="500" />
 
+Este programa empieza diciendo que esta incluido el Servo, después dice que el nombre del Servo se llama servoMotor, después tiene un variable const int pinMotor = 5 (significa que es constante el variable), una variable int que dice que la posicion = 0, una variable int P3 = A3, y lecturapotenciometro = 0.
 
+Después tenemos un void setup, dentro de el tenemos un Serial.begin(9600) (milisegundos), un pinMode (pinMotor, OUTPUT) (significa aue el pinMotor esta en salida) y un servoMotor.attach(pinMotor) (significa que vinculan el servoMotor al pinMotor).
 
-
+Después tenemos un void loop, dentro de el tenemos que lecturapotenciometro = analogRead(P3) ((significa que el valor que tenga el potenciometro es igual a la lectura analógica de potenciómetro), después tenemos un posicion = map(lecturapotenciometro, 16, 991, 0, 180) (significa que el valor de posicion(variable) es igual que el mapeo(el mapeo es que dentro de ella se hace una regla de tres, se coge de 16 a 991 porque normalmente un potenciómetro puede llegar desde 0 a 1023 pero lo nuestro no llega y tiene un mínimo y un máximo que son estos números,después el 0 y el 180 porque nosotros tenemos el motor de grados desde 0 a 180)), un servoMotor.write(posicion) (significa que la escritura del servoMotor es la posicion) y un delay(20) milisegundos y así termina el programa.
 
 
 
