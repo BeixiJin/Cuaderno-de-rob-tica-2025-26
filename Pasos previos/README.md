@@ -134,6 +134,8 @@ Después tenemos un void loop, dentro de el tenemos que primero tenemos la posic
 | - | - | - |
 | <img src= "Imagenes/IMG_9513.jpeg" width="500" height="500" /> | <img src= "Imagenes/IMG_9514.jpeg" width="500" height="500" /> | <img src= "Imagenes/IMG_9515.jpeg" width="500" height="500" /> |
 
+El objetivo de este circuito es que tiene conectado el potenciometro al motor, y al girar el potenciometro, el motor se gira hacia un lado o hacia otro.
+
 # Foto de programación.
 
 <img src= "Imagenes/programacion final proyecto.png" width="500" height="500" />
