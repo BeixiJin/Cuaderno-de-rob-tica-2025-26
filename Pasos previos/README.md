@@ -158,6 +158,15 @@ El objetivo de este circuito es controlar la posición del servomotor mediante e
 
 <img src= "Imagenes/Tripitropi.png" width="500" height="500" />
 
+Este programa empieza diciendo que contiene dos librerias, que uno es el de ultrasonic y otro de servo, despues te dice que el servo se va a llamar servoMotor, y a continuación tiene cinco variables, que uno tiene variable constante que te dice que pinmotor esta en el 5, uno que es posición es 0, uno que el TRIG esta en el 7, otro que el ECHO esta en el 8 y por lo último una de distancia, y al final tenemos que te dice que el ultrasonic se va a llamar Tripitropi, que dentro de el esta el trigger y el eco, que envian y reciben de un tiempo máximo de espera de 60000 microsegundos.
+
+Después teneos un void setup, que dentro de el tenemos que el Serial.begin es de 9600 milisegundos, un pinMode que dice que el pinMotor al principio esta en salida y el servoMotor.attach que se vincula con el pinMotor.
+
+Después tenemos un void lood, que dentro de el tenemos Serial.print(Tripitropi.Ranging(CM)) que te dice que lee la distancia y lo combierta en CM del variable Tripitropi, después dice que la distancia es el CM del variable Tripitropi, después la posición es el mapeado de la distancia de un mínimo de 2 y un máximo de 300 ( en el programa es 100 porque estabamos haciendo pruebas) y de 0 a 180, tiene una escritura de servoMotor que escribe la posición de lo que lee, que sirve para medir la distancia y un delay de 200 milisegundos y así termina el programa.
+
+
+
+
 
 
 
