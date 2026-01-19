@@ -148,8 +148,9 @@ Después tenemos un void loop, dentro de el tenemos que lecturapotenciometro = a
 
 # 9º Foto de circuito de control de ultrasonido con servomotor.
 
-
-
+| Foto 1 | Foto 2 | Foto 3 |
+| - | - | - |
+| <img src= "Imagenes/IMG_0350.jpeg" width="500" height="500" /> | <img src= "Imagenes/IMG_0351.jpeg" width="500" height="500" /> | <img src= "Imagenes/IMG_0352.jpeg" width="500" height="500" /> |
 
 
 
