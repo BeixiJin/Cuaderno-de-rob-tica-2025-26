@@ -152,7 +152,7 @@ Después tenemos un void loop, dentro de el tenemos que lecturapotenciometro = a
 | - | - | - |
 | <img src= "Imagenes/IMG_0350.jpeg" width="500" height="500" /> | <img src= "Imagenes/IMG_0351.jpeg" width="500" height="500" /> | <img src= "Imagenes/IMG_0352.jpeg" width="500" height="500" /> |
 
-
+El objetivo de este circuito es controlar la posición del servomotor mediante el ultrasonido que nos sirve para medir la distancia.
 
 # Foto de programación.
 
