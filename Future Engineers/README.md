@@ -30,7 +30,7 @@ Mi diseño es plano y los diseños son ajustados de tamaño, en el lado frontal 
 
 - Varios placas de diseños.
 
-- 
+- un placa arduino.
 
 
 
