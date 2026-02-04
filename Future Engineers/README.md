@@ -8,10 +8,15 @@
 | - | - |
 | <img src= "Imágenes/IMG_0849.jpeg" width="500" height="500" /> | <img src= "Imágenes/IMG_0850.jpeg" width="500" height="500" /> |
 
+# Objetivo del diseño.
 
+El objetivo de este es que en nuestra clase los alumnos cada uno crea un diseño para robot y elegiremos dos de los mejores par participar en un torneo de robótica.
 
+# Explicación de diseño.
 
+Mi diseño 
 
+# Lista de materiales.
 
 
 
