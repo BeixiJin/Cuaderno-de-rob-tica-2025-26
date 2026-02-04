@@ -20,6 +20,16 @@ Mi diseño es plano y los diseños son ajustados de tamaño, en el lado frontal 
 
 - Dos motores.
 
+- Una bateria.
+
+- Un escudo.
+
+- Tres sensores dee ultrasonido.
+
+- Tres placas para proteger los ultrasonidos.
+
+- Varios placas de diseños.
+
 - 
 
 
