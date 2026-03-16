@@ -36,7 +36,7 @@ Mi diseño es plano y los diseños son ajustados de tamaño, en el lado frontal 
 
 | Foto 1 | Foto 2 | Foto 3 |
 | - | - | - |
-| <img src= "Imágenes/IMG_1271.jpeg" width="500" height="500" /> | <img src= "Imágenes/IMG_1272.jpeg" width="500" height="500" /> | <img src= "Imágenes/IMG_1272.jpeg" width="500" height="500" /> |
+| <img src= "Imágenes/IMG_1271.jpeg" width="500" height="500" /> | <img src= "Imágenes/IMG_1272.jpeg" width="500" height="500" /> | <img src= "Imágenes/IMG_1273.jpeg" width="500" height="500" /> |
 
 
 
