@@ -32,6 +32,8 @@ Mi diseño es plano y los diseños son ajustados de tamaño, en el lado frontal 
 
 - un placa arduino.
 
+# Robot laberinto.
+
 
 
 
