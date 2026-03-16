@@ -38,11 +38,15 @@ Mi diseño es plano y los diseños son ajustados de tamaño, en el lado frontal 
 | - | - | - |
 | <img src= "Imágenes/IMG_1271.jpeg" width="500" height="500" /> | <img src= "Imágenes/IMG_1272.jpeg" width="500" height="500" /> | <img src= "Imágenes/IMG_1273.jpeg" width="500" height="500" /> |
 
+## Explicación.
 
+Este es el proyecto final de este trabajo, tiene diferencia que el diseño principal y los componentes no son iguales, dentro de la placa estan todos los componentes que hemos usado y lo voy a explicar a continuación.
 
+__Componentes:__ 2 motores, 1 escudo, 1 placa arduino, 1 portapila, 1 ultrasonido y 1 servomotor.
 
+__Motores de corriente continua con un sistema reductor de velocidad:__ estos motores estan situados en la parte trasera de la placa de robot, esta atornillado en la placa midiendo la longitud y y la distancia para que encaje justo en la placa para que no se mueva, esta conectados con cuatro cables al escudo 
 
-
+__
 
 
 
