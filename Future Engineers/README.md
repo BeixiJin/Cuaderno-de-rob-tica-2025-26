@@ -48,7 +48,7 @@ __Motores de corriente continua con un sistema reductor de velocidad:__ Estos mo
 
 __Shield L298N:__ Esto sirve para que esten todos conectados, que le den suficiente potencia y para controlar los motores. Se puede ver en la imagen esta situado en el centro del robot para que se pueda conectar los cableados a todos los componentes que le necesitan.
 
-__Placa arduino:__ Esto sirve para que el robot funcione, porque en el ponemos el programa y los cableados de programa, sin el el robot no funcionaria. En el imagen podremos ver que esta conectados los cableados a varios si sitios, en este caso esta conectado al ultrasonido, al escudo y a la bateria
+__Placa arduino:__ Esto sirve para que el robot funcione, porque en el ponemos el programa y los cableados de programa, sin el el robot no funcionaria. En el imagen podremos ver que esta conectados los cableados a varios si sitios, en este caso esta conectado al ultrasonido, al escudo( IN1, IN2, IN3 y IN4) y a la portapila.
 
 __portapilas con pilas de 18650 de 3,7 voltios cada una:__ Esto sirve para que las pilas esten alimentados, que funcionen al usarlo y esta conectado los cableados a la placa arduino. Se puede ver en la imagen, la portapila esta situado en la parte izquierdo del robot y los cableados por encima.
 
