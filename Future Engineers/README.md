@@ -38,11 +38,9 @@ Mi diseño es plano y los diseños son ajustados de tamaño, en el lado frontal 
 | - | - | - |
 | <img src= "Imágenes/IMG_1271.jpeg" width="500" height="500" /> | <img src= "Imágenes/IMG_1272.jpeg" width="500" height="500" /> | <img src= "Imágenes/IMG_1273.jpeg" width="500" height="500" /> |
 
-## Explicación.
+## Explicación del robot entero.
 
 Este es el proyecto final de este trabajo, tiene diferencia que el diseño principal y los componentes no son iguales, dentro de la placa estan todos los componentes que hemos usado, el objetivo de este robot es resolver un laberinto y lo voy a explicar a continuación.
-
-
 
 __Componentes:__ 2 motores de corriente continua con un sistema reductor de velocidad, 1 escudo(Shield), 1 placa arduino, 1 portapilas con pilas de 18650 de 3,7 voltios cada una, 1 ultrasonido y 1 servomotor.
 
