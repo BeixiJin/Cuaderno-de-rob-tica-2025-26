@@ -50,9 +50,9 @@ __Shield L298N:__ Esto sirve para que esten todos conectados, que le den suficie
 
 __Placa arduino:__ Esto sirve para que el robot funcione, porque en el ponemos el programa y los cableados de programa, sin el el robot no funcionaria. En el imagen podremos ver que esta conectados los cableados a varios si sitios, en este caso esta conectado al ultrasonido, al escudo( IN1, IN2, IN3 y IN4) y a la portapila.
 
-__portapilas con pilas de 18650 de 3,7 voltios cada una:__ Esto sirve para que las pilas esten alimentados, que funcionen al usarlo y esta conectado los cableados a la placa arduino. Se puede ver en la imagen, la portapila esta situado en la parte izquierdo del robot y los cableados por encima.
+__Portapilas con pilas de 18650 de 3,7 voltios cada una:__ Esto sirve para que las pilas esten alimentados, que funcionen al usarlo y esta conectado los cableados a la placa arduino. Se puede ver en la imagen, la portapila esta situado en la parte izquierdo del robot y los cableados por encima.
 
-__Servomotor:__ Esto es la base para que el ¨ojo¨ del robot pueda girar hacia un lado y hacia otro, esta situado en la parte delantera del robot, para que tenga una buena visión. Se ve en la imagen que los cableados que uno esta conectado en 5V, uno en un pin( cual quiera) y uno en GND.
+__Servomotor:__ Esto es la base para que el ¨ojo¨ del robot pueda girar hacia un lado y hacia otro, esta situado en la parte delantera del robot, para que tenga una buena visión. Se ve en la imagen que los cableados que uno esta conectado en 5V, uno en un pin(cualquiera) y uno en GND.
 
 __Ultrasonido:__ Esto es como el ¨ojo¨ de robot, funciona en que tira hondas de ultrasonido y rebota para que lo pueda recibir y mandar una señal a la placa arduino. Se puede ver en la imagen tiene los cableados en uno en 5V, dos en pines(la que quiera) y el GND.
 
