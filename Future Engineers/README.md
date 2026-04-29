@@ -63,23 +63,31 @@ __Ultrasonido:__ Esto es como el ¨ojo¨ de robot, funciona en que tira hondas d
 
 [![](https://img.youtube.com/vi/qjQLPe0YbU4/0.jpg)](https://www.youtube.com/watch?v=qjQLPe0YbU4)
 
-**Expicación:** Estereto consis en que tenemos programado que el servomotor gire hacia izquierda y hacia derecha ( que son valores de 0º y 180º):
+**Expicación:** Este reto consiste en que tenemos programado que el servomotor gire hacia izquierda y hacia derecha ( que son valores de 0º y 180º):
 
 ## - Reto 2.
 
 [![](https://img.youtube.com/vi/m6MNIqrkrx4/0.jpg)](https://www.youtube.com/watch?v=m6MNIqrkrx4)
 
+**Explicación:** Este reto consiste en que usamos el ultrasonido, detecta valores y que lo mande hacia el monitor serie.
+
 ## - Reto 3.
 
 [![](https://img.youtube.com/vi/ZSjYsuk3554/0.jpg)](https://www.youtube.com/watch?v=ZSjYsuk3554)
 
+**Explicación:** Este reto consiste en que tenemos programado que el robot vaya hacia delante y hacia atrás.
+
 ## - Reto 4.
 
+[![](https://img.youtube.com/vi/UCqJFzujzTE/0.jpg)](https://www.youtube.com/watch?v=UCqJFzujzTE)
 
+**Explicación:** Este reto consiste en que el robot avanza y cuando detecta que el valor es menor que 30cm se para.
 
 ## - Reto 5.
 
+[![](https://img.youtube.com/vi/uuJXEzctWdo/0.jpg)](https://www.youtube.com/watch?v=uuJXEzctWdo)
 
+**Explicación:** Este reto consiste en que el robot avanza y cuando detecta que el valor es menor que 30cm se para y mira hacia izquierda y derecha.
 
 ## - Reto 6.
 
