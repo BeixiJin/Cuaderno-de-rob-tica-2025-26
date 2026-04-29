@@ -57,6 +57,45 @@ __Servomotor:__ Esto es la base para que el ¨ojo¨ del robot pueda girar hacia 
 __Ultrasonido:__ Esto es como el ¨ojo¨ de robot, funciona en que tira hondas de ultrasonido y rebota para que lo pueda recibir y mandar una señal a la placa arduino. Se puede ver en la imagen tiene los cableados en uno en 5V, dos en pines(la que quiera) y el GND.
 
 
+# PROYECTO FINAL.
+
+## - Reto 1.
+
+
+
+## - Reto 2.
+
+
+
+## - Reto 3.
+
+
+
+## - Reto 4.
+
+
+
+## - Reto 5.
+
+
+
+## - Reto 6.
+
+
+
+## - Reto 7.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
