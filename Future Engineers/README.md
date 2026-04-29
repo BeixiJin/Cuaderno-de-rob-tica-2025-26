@@ -63,7 +63,7 @@ __Ultrasonido:__ Esto es como el ¨ojo¨ de robot, funciona en que tira hondas d
 
 [![](https://img.youtube.com/vi/qjQLPe0YbU4/0.jpg)](https://www.youtube.com/watch?v=qjQLPe0YbU4)
 
-
+**Expicación:** Estereto consis en que tenemos programado que el servomotor gire hacia izquierda y hacia derecha ( que son valores de 0º y 180º):
 
 ## - Reto 2.
 
