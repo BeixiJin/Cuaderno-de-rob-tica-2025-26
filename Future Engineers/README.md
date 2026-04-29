@@ -61,15 +61,17 @@ __Ultrasonido:__ Esto es como el ¨ojo¨ de robot, funciona en que tira hondas d
 
 ## - Reto 1.
 
+[![](https://img.youtube.com/vi/qjQLPe0YbU4/0.jpg)](https://www.youtube.com/watch?v=qjQLPe0YbU4)
+
 
 
 ## - Reto 2.
 
-
+[![](https://img.youtube.com/vi/m6MNIqrkrx4/0.jpg)](https://www.youtube.com/watch?v=m6MNIqrkrx4)
 
 ## - Reto 3.
 
-
+[![](https://img.youtube.com/vi/ZSjYsuk3554/0.jpg)](https://www.youtube.com/watch?v=ZSjYsuk3554)
 
 ## - Reto 4.
 
