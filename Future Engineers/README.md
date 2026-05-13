@@ -79,7 +79,7 @@ __Ultrasonido:__ Esto es como el ¨ojo¨ de robot, funciona en que tira hondas d
 
 ## - Programación reto 3.
 
-<img src= "Imágenes/reto3_programa width="500" height="500" />
+<img src= "Imágenes/reto3_programa.png" width="500" height="500" />
 
 ## - Reto 4.
 
@@ -89,7 +89,7 @@ __Ultrasonido:__ Esto es como el ¨ojo¨ de robot, funciona en que tira hondas d
 
 ## - Programación reto 4.
 
-<img src= "Imágenes/reto4_programa width="500" height="500" />
+<img src= "Imágenes/reto4_programa.png" width="500" height="500" />
 
 ## - Reto 5.
 
@@ -99,7 +99,7 @@ __Ultrasonido:__ Esto es como el ¨ojo¨ de robot, funciona en que tira hondas d
 
 ## - Programación reto 5.
 
-<img src= "Imágenes/reto5_programa width="500" height="500" />
+<img src= "Imágenes/reto5_programa.png" width="350" height="500" />
 
 ## - Reto 6.
 
