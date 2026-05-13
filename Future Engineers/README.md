@@ -77,17 +77,29 @@ __Ultrasonido:__ Esto es como el ¨ojo¨ de robot, funciona en que tira hondas d
 
 **Explicación:** Este reto consiste en que tenemos programado que el robot vaya hacia delante y hacia atrás.
 
+## - Programación reto 3.
+
+<img src= "Imágenes/reto3_programa width="500" height="500" />
+
 ## - Reto 4.
 
 [![](https://img.youtube.com/vi/UCqJFzujzTE/0.jpg)](https://www.youtube.com/watch?v=UCqJFzujzTE)
 
 **Explicación:** Este reto consiste en que el robot avanza y cuando detecta que el valor es menor que 30cm se para.
 
+## - Programación reto 4.
+
+<img src= "Imágenes/reto4_programa width="500" height="500" />
+
 ## - Reto 5.
 
 [![](https://img.youtube.com/vi/uuJXEzctWdo/0.jpg)](https://www.youtube.com/watch?v=uuJXEzctWdo)
 
 **Explicación:** Este reto consiste en que el robot avanza y cuando detecta que el valor es menor que 30cm se para y mira hacia izquierda y derecha.
+
+## - Programación reto 5.
+
+<img src= "Imágenes/reto5_programa width="500" height="500" />
 
 ## - Reto 6.
 
