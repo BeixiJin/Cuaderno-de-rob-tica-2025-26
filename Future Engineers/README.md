@@ -112,13 +112,17 @@ __Ultrasonido:__ Esto es como el ¨ojo¨ de robot, funciona en que tira hondas d
 
 ## - Reto 6.
 
+**Explicación:** Este reto consiste en que el robot avanza y cuando detecta que el valor es menor que 30cm se para y mira hacia izquierda y derecha,detecta la distancia de los dos lados, y se gira hacia el lado que tiene más distancia.
+
+## - Programación reto 6.
+
 
 
 ## - Reto 7.
 
 
 
-
+## - Programación reto 7.
 
 
 
