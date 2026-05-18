@@ -65,11 +65,20 @@ __Ultrasonido:__ Esto es como el ¨ojo¨ de robot, funciona en que tira hondas d
 
 **Expicación:** Este reto consiste en que tenemos programado que el servomotor gire hacia izquierda y hacia derecha ( que son valores de 0º y 180º):
 
+## - Programación reto 1.
+
+<img src= "Imágenes/para el come perro.png" width="500" height="500" />
+
+
 ## - Reto 2.
 
 [![](https://img.youtube.com/vi/m6MNIqrkrx4/0.jpg)](https://www.youtube.com/watch?v=m6MNIqrkrx4)
 
 **Explicación:** Este reto consiste en que usamos el ultrasonido, detecta valores y que lo mande hacia el monitor serie.
+
+## - Programación reto 2.
+
+<img src= "Imágenes/para el come perro.png" width="500" height="500" />
 
 ## - Reto 3.
 
